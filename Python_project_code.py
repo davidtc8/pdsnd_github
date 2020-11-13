@@ -1,3 +1,9 @@
+"""
+What this project is about?
+What I did in the Python project was to analyze 3 franchises from a fictitious company, using pandas dataframes in Python.
+For this project I used For, While Loops, Function Definition, Main Function, Numpys and Pandas
+"""
+
 import pandas as pd
 import time
 import numpy as np
@@ -241,3 +247,6 @@ def main():
             break
 if __name__ == "__main__":
     main()
+
+
+#changes made for the github project!
