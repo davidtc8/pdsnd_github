@@ -13,3 +13,6 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+###Python Project
+What I did in the Python project was to analyze 3 franchises from a fictitious company, using pandas dataframes in Python. 
+For this project I used For, While Loops, Function Definition, Main Function, Numpys and Pandas
